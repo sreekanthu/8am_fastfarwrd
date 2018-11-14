@@ -1,1 +1,1 @@
-seadme file
+conflict
